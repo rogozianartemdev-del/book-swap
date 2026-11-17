@@ -2,7 +2,7 @@
 
 A full-stack web application for discovering, listing, and exchanging books between users. Users can register, manage their book collection (with optional cover images), browse the catalog with search and pagination, request exchanges, and receive email notifications when someone wants to swap for their books. Administrators have additional user-management capabilities.
 
-**Live demo:** http://3.94.153.209  
+**Live demo:** http://3.94.153.209:3000
 **Repository:** https://github.com/rogozianartemdev-del/book-swap
 
 ---
