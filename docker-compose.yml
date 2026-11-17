@@ -43,7 +43,7 @@ services:
     build:
       context: ./client
       args:
-        VITE_API_URL: http://localhost:${PORT}
+        VITE_API_URL: ${VITE_API_URL}
     ports:
       - "3000:80"
     depends_on:
